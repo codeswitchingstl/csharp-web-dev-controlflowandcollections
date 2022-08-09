@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ListExercises
 {
@@ -6,7 +7,7 @@ namespace ListExercises
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Lists!");
+
         }
     }
 }
